@@ -5,7 +5,7 @@
 > Built at a real estate and media group in Mexico.
 > **Anonymized portfolio version — all data is synthetic.**
 
-![R](https://img.shields.io/badge/R-4.5-276DC3) ![Shiny](https://img.shields.io/badge/Shiny-app-4B8BBE) ![License](https://img.shields.io/badge/license-MIT-green)
+![R](https://img.shields.io/badge/R-4.5-276DC3) ![Shiny](https://img.shields.io/badge/Shiny-app-4B8BBE)
 
 ---
 
@@ -173,7 +173,3 @@ This is a real production tool, rewritten for public release:
 - No credentials exist in this project — it never connects to anything.
 
 The pipeline, the rules and the engineering decisions are the real ones.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
